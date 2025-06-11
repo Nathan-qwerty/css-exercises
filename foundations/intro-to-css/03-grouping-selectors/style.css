@@ -1,0 +1,14 @@
+.click-button {
+    background-color: black;
+    color: white;
+}
+
+.another-click-button {
+    background-color: yellow;
+}
+
+.click-button,
+.another-click-button {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
