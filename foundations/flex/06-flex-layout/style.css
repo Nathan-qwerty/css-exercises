@@ -1,5 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.left-links,
+.right-links {
+  display: flex;
+  gap: 14px;
+  list-style-type: none;
+  margin: 0;
+  padding: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(150, 150, 150);
+}
+
 body {
   height: 100vh;
   margin: 0;
