@@ -54,3 +54,10 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+.footer {
+  background-color:  #eeeeee;
+  display: flex;
+  justify-content: space-between;
+  padding: 18px 32px;
+}
